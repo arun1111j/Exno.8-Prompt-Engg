@@ -1,5 +1,5 @@
-# Exno.8 - Prompt Engineering for Audio Generation  
-### Date: 23/05/2025
+# Exno.8 - Exploration of Prompting Techniques for Audio Generation
+### Date: 17/04/2025
 ### Register No: 212222040015
 
 ---
